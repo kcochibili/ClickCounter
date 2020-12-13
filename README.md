@@ -1,5 +1,5 @@
 # ClickCounter
-This class listens for clicks, counts them and sends you the result trough a simple interface
+This class listens for clicks, counts them and sends you the result trough a simple interface. Imagine trying to count how many times a view was clicked.
 
 ## Usage Example:
 
