@@ -3,7 +3,7 @@ This class listens for clicks, counts them and sends you the result trough a sim
 
 ## Usage Example:
 
-```
+```Java
 ClickCounter counter = new ClickCounter();
 
 
